@@ -31,3 +31,11 @@ body {
     color: aquamarine;
 
 }
+
+
+/*FOOTER */
+.link--copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
